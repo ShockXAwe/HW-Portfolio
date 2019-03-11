@@ -1,4 +1,42 @@
-header, h1{
+
+
+#aboutid{
+    float: right;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: gray;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    line-height: 1.6;
+}
+
+#portfolioid{
+    float: right;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: gray;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    line-height: 1.6;
+}
+
+#contactid{
+    float: right;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: gray;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    line-height: 1.6;
+}
+
+h1{
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    float: left;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: white;
+    background-color: green;
+} 
+
+h2{
     font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 
@@ -15,4 +53,18 @@ p{
     padding-left: 15px;
     padding-bottom: 15px;
     float: left;
+}
+
+#top{
+    width: 100%;
+    overflow: auto;
+    clear: both;
+    background: white;
+}
+
+#main{
+    padding: 25px;
+    margin: 30px;
+    margin-top: auto;
+    background: white;
 }
