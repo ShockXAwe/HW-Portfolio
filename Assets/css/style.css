@@ -1,0 +1,18 @@
+header, h1{
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+p{
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    line-height: 1.6;
+}
+
+#coffeeme{
+    width: 200px;
+    height: 200px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    float: left;
+}
