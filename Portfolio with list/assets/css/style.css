@@ -27,7 +27,7 @@ li a:hover:not(.active) {
 
 body{
     margin: 0;
-    padding:0;
+    padding: 0;
     background: #333;
     background-attachment: fixed;
     background-size: cover;
@@ -72,11 +72,13 @@ h1{
 
 h2{
     font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: white;
 }
 
 p{
     font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
     line-height: 2.0;
+    color: white;
 }
 
 #coffeeme{
@@ -100,13 +102,13 @@ p{
     padding: 25px;
     margin: 150px;
     margin-top: 50px;
-    background: white;
-    border-style: solid;
+    background: grey;
+    border-style: hidden;
     border-radius: 15px 50px;
-    border-color: green;
-    border-width: 5px;
+    opacity: .88;
 }
 
+/*Noted below for contact area*/
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
     width: 100%; /* Full width */
@@ -140,3 +142,4 @@ input[type=text], select, textarea {
     background-color: #f2f2f2;
     padding: 20px;
   }
+  /*Notes end for contact area*/
