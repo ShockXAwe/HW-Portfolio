@@ -1,9 +1,9 @@
-ul {
+    ul {
     list-style-type: none;
     margin: 20px;
     padding-right: 125px;
     overflow: hidden;
-    background-color: white;
+    background-color: gray;
     float: right;
 }
 
@@ -14,7 +14,7 @@ li {
 
 li a {
     display: block;
-    color: gray;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -46,7 +46,7 @@ body{
 
 #pipe{
     display: block;
-    color: gray;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -54,7 +54,7 @@ body{
 
 #pipe2{
     display: block;
-    color: gray;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -95,7 +95,8 @@ p{
     width: 100%;
     overflow: auto;
     clear: both;
-    background: white;
+    background: GRAY;
+    OPACITY: .85;
 }
 
 #main{
