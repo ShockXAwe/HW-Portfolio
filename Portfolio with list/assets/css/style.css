@@ -29,6 +29,22 @@ body{
     background: grey;
 }
 
+#pipe{
+    display: block;
+    color: gray;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#pipe2{
+    display: block;
+    color: gray;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
 h1{
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     float: left;
