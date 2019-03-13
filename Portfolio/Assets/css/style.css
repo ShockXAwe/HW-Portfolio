@@ -1,7 +1,8 @@
     ul {
     list-style-type: none;
     margin: 20px;
-    padding-right: 125px;
+    margin-top: 30px;
+    _padding-right: 125px;
     overflow: hidden;
     background-color: gray;
     float: right;
@@ -65,7 +66,8 @@ h1{
     float: left;
     padding: 20px;
     margin-bottom: 20px;
-    margin-left: 150px;
+    margin-left: 20px;
+    _margin-left: auto;
     color: white;
     background-color: green;
 } 
@@ -87,12 +89,14 @@ p{
     padding-top: 15px;
     padding-right: 15px;
     padding-left: 15px;
-    padding-bottom: 15px;
+    padding-bottom: 10px;
     float: left;
 }
 
 #top{
-    width: 100%;
+    _width: 100%;
+    width: 960px;
+    margin: 0 auto;
     overflow: auto;
     clear: both;
     background: GRAY;
@@ -101,12 +105,15 @@ p{
 
 #main{
     padding: 25px;
-    margin: 150px;
-    _margin-top: 50px;
+    _margin: 150px;
+    margin: 0 auto;
+    margin-top: 50px;
     background: grey;
     border-style: hidden;
     border-radius: 15px 50px;
     opacity: .88;
+    width: 960px;
+    box-sizing: border-box;
 }
 
 /*Noted below for contact area*/
