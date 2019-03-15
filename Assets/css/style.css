@@ -71,6 +71,7 @@ h1{
     height: 50px;
     padding: 11px 10px;
     box-sizing: border-box;
+    _width: 960px;
     _padding: 20px;
     _margin-bottom: 20px;
     _margin-left: 20px;
@@ -101,8 +102,8 @@ p{
 }
 
 #top{
-    _width: 100%;
-    width: 960px;
+    width: 100%;
+    _width: 960px;
     margin: 0 auto;
     overflow: auto;
     clear: both;
@@ -164,7 +165,8 @@ footer{
     background-color: gray;
     text-align: center;
     color: white;
-    width: 960px;
+    width: 100%;
+    _width: 960px;
     margin: 0 auto;
     opacity: .85;
     border-style: hidden;
