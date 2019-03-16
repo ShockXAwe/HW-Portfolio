@@ -149,6 +149,19 @@ p{
   padding-top: initial;
 }
 
+#headport{
+display: flex;
+flex-wrap: wrap;
+width: 960px;
+margin-left: 25px;
+}
+
+#linebreak{
+  display: block;
+  width: 900px;
+  margin-left: 25px;
+}
+
 .wrapper {
     display: inline-flex;
     justify-content: center;
