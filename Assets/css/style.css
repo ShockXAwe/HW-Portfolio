@@ -260,7 +260,7 @@ input[type=text], select, textarea {
   }
 
   #port1{
-    background-image: url("hangman.jpg");
+    background-image: url("bluePylon.jpg");
   }
 
   #port2{
@@ -273,11 +273,11 @@ input[type=text], select, textarea {
   } 
 
   #port4{
-    background-image: url("riw.jpg")
+    background-image: url("train.png")
   }
 
   #port5{
-    background-image: url("psr.jpg")
+    background-image: url("ec9b161cf1b2b6d1145933246a723541.gif")
   }
 
  .pitem h4{
